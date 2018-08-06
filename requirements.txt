@@ -1,0 +1,4 @@
+Django==1.10.6
+Markdown==2.6.11
+pytz==2018.5
+virtualenv==16.0.0
